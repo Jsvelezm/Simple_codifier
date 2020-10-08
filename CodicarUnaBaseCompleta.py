@@ -300,4 +300,4 @@ baseNcod.to_excel('BaseCodificada.xlsx')
 #[gsub("-1","",i) for i in baseNcod['P2'+'_COD1'] ]
 
 
-
+hola a todos
